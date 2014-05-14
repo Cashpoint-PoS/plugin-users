@@ -1,0 +1,12 @@
+{
+	"name":"user",
+	"version":"git",
+	"deps":[],
+	"tables":[
+		"users",
+		"acl",
+		"groups",
+		"link_users_groups",
+		"user_tokens"
+	]	
+}
