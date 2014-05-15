@@ -1,5 +1,6 @@
 {
   "name":"user",
+  "desc":"CashPoint User management",
   "version":"git",
   "deps":[
     
